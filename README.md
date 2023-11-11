@@ -19,9 +19,9 @@ Product Hunt permet à toute la communauté web de participer à une notation gl
 
 
 
-* En tant qu'utilisateur non connecté, je dois me connecter en saisissant seulement mon pseudo. Il n'y a pas de mot de passe. \
-Si le pseudo n'est pas connu dans la base de données, un nouvel utilisateur est créé. \
- Si le pseudo est connu dans la base de données, alors je suis connecté sur le profil.
+* En tant qu'utilisateur non connecté, je dois me connecter en saisissant seulement mon pseudo. Il n'y a pas de mot de passe. 
+* Si le pseudo n'est pas connu dans la base de données, un nouvel utilisateur est créé. 
+* Si le pseudo est connu dans la base de données, alors je suis connecté sur le profil.
 
 
 ## **Liste des produits**
